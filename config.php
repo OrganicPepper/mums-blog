@@ -16,11 +16,11 @@ return [
     'services' => [
         'cmsVersion' => '2.10.102',
         'analytics' => 'UA-XXXXX-Y',
-        'disqus' => 'artisanstatic',
+        'disqus' => 'organicpepper',
         'formcarry' => 'XXXXXXXXXXXX',
         'cloudinary' => [
-            'cloudName' => 'artisanstatic',
-            'apiKey' => '365895137117119',
+            'cloudName' => 'organicpepper',
+            'apiKey' => '769243572692717',
         ],
     ],
     'collections' => [
