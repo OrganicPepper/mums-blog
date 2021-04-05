@@ -5,7 +5,7 @@ return [
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
         'title' => 'Word and Heart',
-        'description' => 'Cathy's Blog',
+        'description' => 'Cathy\'s Blog',
         'image' => 'default-share.png',
     ],
     'owner' => [
