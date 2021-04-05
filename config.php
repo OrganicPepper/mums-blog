@@ -2,7 +2,7 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'baseUrl' => 'https://cathydouglas.netlify.app',
     'site' => [
         'title' => 'Word and Heart',
         'description' => 'Cathy\'s Blog',
